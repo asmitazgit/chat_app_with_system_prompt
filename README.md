@@ -1,6 +1,7 @@
 # chat_app_with_system_prompt
 
-GUIDELINES
+**GUIDELINES**
+
 **Setup of VSCode, Git, Python, GitHub Copilot**
 Go checkout this setup guide for setting VSCode, Git, Python and GitHub Copilot (installing and sign in).
 ________________________________________
