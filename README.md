@@ -192,7 +192,7 @@ Please note: if you ask qns based on realtime eg. What's the time now? or what's
 
 
 
-We can try our Code with different Patterns as shown below
+**We can try our Code with different Patterns as shown below**
  
 Uncomment the line which u want the Agent to Behave and produce the output accordingly
 
