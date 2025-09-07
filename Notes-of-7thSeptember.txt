@@ -1,0 +1,11 @@
+
+source venv/Scripts/activate
+After this use the below command
+pip install -r requirements.txt
+
+
+
+export MODEL_NAME=openai/gpt-oss-20b
+export GROQ_API_KEY=YOUR GROQ KEY
+export LANGSMITH_TRACING=true
+export LANGSMITH_API_KEY=YOUR LS KEY
